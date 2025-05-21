@@ -1,7 +1,12 @@
 # Load the dataset
 ipywidgets
+ipykernel
 tqdm
 datasets
+
+# EDA
+matplotlib
+seaborn
 
 
 torch
