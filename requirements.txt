@@ -4,6 +4,10 @@ ipykernel
 tqdm
 datasets
 
+# EDA
+matplotlib
+seaborn
+
 
 torch
 transformers
