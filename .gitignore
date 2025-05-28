@@ -1,2 +1,5 @@
 venv/
 .env
+
+outputs/
+notebooks/outputs
